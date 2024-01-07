@@ -23,7 +23,7 @@
 #### https://www.postman.com/downloads/
 - 4. Clone to your environment
 ```
-git clone https://github.com/khphet/node-jwt-express-mongodb-authentication.git
+git clone https://github.com/khphet/nodejs-jwt-express-mongodb--authentication.git   
 ```
 
 ## Project Structures
