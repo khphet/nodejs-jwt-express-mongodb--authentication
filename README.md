@@ -1,18 +1,17 @@
 - Author By: Khitsada Phetsaior [KP]
-- Author Date: 2024-01-06
+- Author Date: 2024-01-07
 - Author Description: Node.js-JWT-Express-Mongodb-Authentication.
 
 ## Node.js - JWT - Express Authentication, Login and Registration with mongodb
 
 - node-jwt-express-mongodb-authentication [Flow]
-[Authenication System_KP.pdf](https://github.com/khphet/node-jwt-express-mongodb-authentication/files/13849840/Authenication.System_KP.pdf)
+[Authenication System_KP.pdf](https://github.com/khphet/nodejs-jwt-express-mongodb--authentication/files/13852370/Authenication.System_KP.pdf)
 
 - [Flow][1]
-![Authenication System_KP 1](https://github.com/khphet/node-jwt-express-mongodb-authentication/assets/149032271/10207265-f2da-46d3-b898-ecfd53ce3e8f)
+![Authenication System_KP 1](https://github.com/khphet/nodejs-jwt-express-mongodb--authentication/assets/149032271/729113b1-75f1-4fa4-a7a0-b4bd29f47938)
 
 - [Flow][2]
-![Authenication System_KP 2](https://github.com/khphet/node-jwt-express-mongodb-authentication/assets/149032271/ef725a31-08dd-4e19-b402-5a646b2a7c75)
-
+![Authenication System_KP 2](https://github.com/khphet/nodejs-jwt-express-mongodb--authentication/assets/149032271/3497c07d-9933-4b14-8d6d-6c0211b9b1b1)
 
 ## Setup Environments
 
@@ -43,11 +42,12 @@ git clone https://github.com/khphet/node-jwt-express-mongodb-authentication.git
     "validator": "13.11.0"
 
 ### Directories
-![Directory](https://github.com/khphet/node-jwt-express-mongodb-authentication/assets/149032271/0fba7c7d-3134-4e39-885a-a1a8144148cd)
+![Directory](https://github.com/khphet/nodejs-jwt-express-mongodb--authentication/assets/149032271/1d890eb7-1d0d-4f39-a90e-cc87b64a23af)
 
 #### config
   - Configure Auth Key
   - Configure MongoDB
+  - Confgure Token
 
 #### controller
   - auth.controller => handle signup, signin & signout actions
